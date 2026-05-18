@@ -16,10 +16,11 @@
 ## 3. Current Sections
 - Welcome
 - Tutorial
+- Photo Album builder
 - About
 
 ## 4. Planned Sections / Features
-- Photo Album builder
+- TBD
 
 ## 5. Tech Stack
 - HTML + Tailwind (CDN)
